@@ -1,0 +1,122 @@
+h1{
+    background-image: url(https://miro.medium.com/v2/resize:fit:1400/1*JHbpPa0TugDyymxEWgdYVA.jpeg);
+    background-image: center;
+    background-size: cover;
+    font-family: 'Covered By Your Grace';
+    font-weight: 400px;
+    text-align: center;
+    font-size: 83px;
+    height: 400px;
+    color: #392124;
+}
+
+
+h3{
+    font-family: 'Raleway';
+  font-weight: bold;
+  text-align: center;
+  font-size: x-large;
+  color: #392124;
+}
+p{
+    color: #98938e;
+    font-family:"League Spartan", sans-serif;
+    font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.container{
+    padding: 60px;
+    background-color: #efe9e2
+}
+
+
+.green{
+    background-color: #9bd29c;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.light{
+    background-color: #b86843;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.city{
+    background-color: #865331;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.vienna{
+    background-color: #a54848;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.italian{
+    background-color: #191919;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+
+h5{
+    color: #ffffff;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+}
+
+h4{
+    color: #ffffff;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+}
+
+h2{
+    font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+}
+
+hr{
+    color: #f5dac1
+}
+
+.roasting{
+    background-color: white;
+    padding: 100px;
+    color: #8d8985;
+    font-size: 20px;
+}
+a{
+    color: #305940;
+    font-family: 'Raleway';
+    font-size: 16px;
+    font-weight: bold;
+}
+ul li{
+    color: #e3bb97;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 1px;
+}
